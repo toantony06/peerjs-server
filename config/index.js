@@ -1,5 +1,5 @@
 module.exports = {
-  port: 9000,
+  port: 443,
   expire_timeout: 5000,
   key: 'peerjs',
   path: '/myapp',
