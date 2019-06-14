@@ -14,7 +14,7 @@
   "license": "MIT",
   "scripts": {
     "test": "mocha test/**/*.js",
-    "start": "bin/peerjs --port ${PORT:=9000}"
+    "start": "bin/peerjs --port ${PORT:=443}"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
